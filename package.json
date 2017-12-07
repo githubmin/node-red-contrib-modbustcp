@@ -21,7 +21,7 @@
     "node-red",
     "modbus",
     "modbus tcp",
-    "modbus client"    
+    "modbus client"
   ],
   "node-red": {
     "nodes": {
